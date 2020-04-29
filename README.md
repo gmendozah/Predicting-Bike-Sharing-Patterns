@@ -9,7 +9,6 @@ This project requires **Python 3.6.0** and the following Python libraries instal
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
 
 ## Run
 In a terminal or command window, navigate to the top-level project directory `intro-to-machine-learning-with-pytorch/` (that contains this README) and run the following command:
