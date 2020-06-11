@@ -18,7 +18,7 @@ jupyter notebook Predicting_bike_sharing_data.ipynb
 
 or
 ```bash
-jupyter notebook Predicting_bike_sharing_data.ipynb.ipynb
+jupyter notebook Predicting_bike_sharing_data.ipynb
 ```
 
 on any Jupyter Notebook.
