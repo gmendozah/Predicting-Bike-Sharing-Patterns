@@ -11,7 +11,7 @@ This project requires **Python 3.6.0** and the following Python libraries instal
 - [matplotlib](http://matplotlib.org/)
 
 ## Run
-In a terminal or command window, navigate to the top-level project directory `intro-to-machine-learning-with-pytorch/` (that contains this README) and run the following command:
+In a terminal or command window, navigate to the top-level project directory `Predicting-Bike-Sharing-Patterns/` (that contains this README) and run the following command:
 ```bash
 jupyter notebook Predicting_bike_sharing_data.ipynb
 ```
